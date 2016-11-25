@@ -6,10 +6,11 @@ Weather App
 To build a single HTML page application displaying the 5 day weather forecast for a location of your choice.
 
 ::Prerequisites::
-A proper connection to the Internet.
+Proper connection to the Internet is required
+We are fetching the weather report from an API http://openweathermap.org/forecast5.
 
 ::Give examples::
-Pull the file from the master branch and run it on any bvrowser.
+Pull the file from the master branch and run it on any browser.
 Enter the city name:Paris
 The Data Time and the weather for Paris is displayed, in a table.
 
@@ -23,7 +24,7 @@ Openweather API
 
 
 ::Author::
-Rajneesh Kumar :)
+Rajneesh Kumar
 
 ::License::
 This project is open and is free for contributions and improvements

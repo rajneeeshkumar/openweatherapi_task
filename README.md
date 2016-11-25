@@ -3,7 +3,7 @@
 Weather App
 
 ::Getting Started::
-To build a single HTML page application displaying the 5 day weather forecast for a location of your choice.
+To build a single HTML page application displaying the five day weather forecast for a location of your choice.
 
 ::Prerequisites::
 Proper connection to the Internet is required
@@ -12,22 +12,21 @@ We are fetching the weather report from an API http://openweathermap.org/forecas
 ::Give examples::
 Pull the file from the master branch and run it on any browser.
 Enter the city name:Paris
-The Data Time and the weather for Paris is displayed, in a table.
+The Date,Time and Weather(Five days) for entered city name is displayed in a table.
 
 
 ::Built With::
+HTML
+CSS3
 Javascript
 Jquery
 Openweather API
-
-
-
 
 ::Author::
 Rajneesh Kumar
 
 ::License::
-This project is open and is free for contributions and improvements
+This project is open and is free for contributions and improvements.
 
 
 ::Commited Improvements::
